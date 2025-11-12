@@ -12,7 +12,7 @@ This project demonstrates building a Minimum Spanning Tree (MST) using Kruskal's
 ## How to build and run
 1. Clone repository:
    ```bash
-   git clone https://github.com/Lattuse/daa_bonus_task/tree/master
+   git clone https://github.com/Lattuse/daa_bonus_task.git
    cd daa_bonus_task
    ```
 2. Build:
